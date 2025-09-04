@@ -8,7 +8,7 @@ We work with a real-world dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/c
 ---
 
 ## Business Context  
-Banking fraud poses a massive risk, costing institutions billions of dollars each year while eroding customer trust. According to the [Nilson Report](https://nilsonreport.com/upload/content_promo/The_Nilson_Report_Issue_1164.pdf), global card fraud losses were estimated to reach **$30 billion by 2020**.  
+Banking fraud poses a massive risk, costing institutions billions of dollars each year while eroding customer trust. According to the Nilson Report, global card fraud losses were estimated to reach **$30 billion by 2020**.  
 
 With the surge in online payments, fraudsters constantly develop new techniques. Hence, **fraud detection using machine learning** is not just beneficial but essential. It enables:  
 - Faster and automated fraud detection  
